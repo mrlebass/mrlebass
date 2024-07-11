@@ -56,6 +56,6 @@ Governance, Agile Development, DevOps Culture, SRE, AWS Cloud, Corporate Strateg
 <br> </br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrlebass&show_icons=true&theme=dracula)](https://github.com/mrlebass/)
 
-<p> <strong> I’m currently learning </strong> Madarin Chinese |莱安德罗|           </p>
-<p> 💬 Ask me about test automation and software engineer        </p>
-<p> <strong> ⚡ Fun fact:</strong>  I'm Bass player 🎸 and Jiu Jitsu Practitioner 🥋  </p>
+<p> 🌱 I’m currently learning <strong> Madarin Chinese |莱安德罗| </strong>                         </p>
+<p> 💬 Ask me about Test Automation and Software Engineer (architecture, microsservices e devops)  </p>
+<p> <strong> ⚡ Fun fact:</strong>  I'm Bass player 🎸 and Jiu Jitsu Practitioner 🥋                 </p>
