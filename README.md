@@ -53,7 +53,7 @@ I am looking for opportunities that challenge me to lead transformational change
 If you are interested in discussing innovations in software engineering, automation, or technological leadership, I would love to expand my network and explore potential collaborations.
 <br> </br>
 #### ★★★★★
-Governance, Agile Development, DevOps Culture, SRE, AWS Cloud, Corporate Strategy, ITIL4, COBIT, MPS-BR, ISO 27000, Strategic and Tactical Objectives (OKRs), DataDriven, Analytics, AI, Capex/Opex, Budget/FinOps , IT Management, Digital Transformation
+Governance, Agile Development, DevOps Culture, SRE, SDET, AWS Cloud, Corporate Strategy, ITIL4, COBIT, MPS-BR, ISO 27000, Strategic and Tactical Objectives (OKRs), DataDriven, Analytics, AI, Capex/Opex, Budget/FinOps , IT Management, Digital Transformation
 
 </div>
 
