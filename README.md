@@ -58,7 +58,11 @@ Governance, Agile Development, DevOps Culture, SRE, SDET, AWS Cloud, Corporate S
 </div>
 
 <br> </br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrlebass&show_icons=true&theme=dracula)](https://github.com/mrlebass/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrlebass&show_icons=true&theme=ambient_gradient)](https://github.com/mrlebass/) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&show_icons=true&theme=codeSTACKr&langs_count=6" style="width: 24%; height: 100%;">
+
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&show_icons=true&theme=codeSTACKr&langs_count=6&layout=compact)](https://github.com/mrlebass/) -->
+
+
 
 <p> 🌱 I’m currently learning <strong> Madarin Chinese |莱安德罗| </strong>                         </p>
 <p> 💬 Ask me about Test Automation and Software Engineer (architecture, microsservices e devops)  </p>
