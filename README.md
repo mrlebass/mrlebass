@@ -57,12 +57,35 @@ Governance, Agile Development, DevOps Culture, SRE, SDET, AWS Cloud, Corporate S
 
 </div>
 
-<br> </br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrlebass&show_icons=true&theme=ambient_gradient)](https://github.com/mrlebass/) [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&show_icons=true&theme=codeSTACKr&langs_count=6&layout=compact)](https://github.com/mrlebass/)
-
 <!-- 
+<br> </br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrlebass&show_icons=true&theme=ambient_gradient)](https://github.com/mrlebass/) [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&show_icons=true&theme=codeSTACKr&langs_count=6&layout=compact)](https://github.com/mrlebass/)
+ // 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&show_icons=true&theme=codeSTACKr&langs_count=6" style="width: 25%; height: 80%;"> -->
+---
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=mrlebass&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mrlebass&show_icons=true&theme=ambient_gradient">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&size_weight=0.0005&count_weight=0.3&layout=compact&theme=codeSTACKr">
+</p>
+
+---
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrlebass&style=for-the-badge&color=brightgreen" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+<br> </br>
 
 <p> 🌱 I’m currently learning <strong> Madarin Chinese |莱安德罗| </strong>                         </p>
 <p> 💬 Ask me about Test Automation and Software Engineer (architecture, microsservices e devops)  </p>
 <p> <strong> ⚡ Fun fact:</strong>  I'm Bass player 🎸 and Jiu Jitsu Practitioner 🥋                 </p>
+
