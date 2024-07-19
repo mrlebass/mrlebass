@@ -72,7 +72,14 @@ Governance, Agile Development, DevOps Culture, SRE, SDET, AWS Cloud, Corporate S
  // 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&show_icons=true&theme=codeSTACKr&langs_count=6" style="width: 25%; height: 80%;"> -->
 
-<h2 align="center"> <img src="https://github.com/mrlebass/mrlebass/assets/flame.gif" height="24px" alt="flame"/> <img src="https://github.com/mrlebass/mrlebass/assets/flame.gif" height="24px" alt="flame"/> </h2>
+
+<div align= "right">
+  <img src="https://raw.githubusercontent.com/mrlebass/Assets/main/flame.gif" height="24px" alt="flame"/>
+</div>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/mrlebass/Assets/main/flame.gif" height="24px" alt="flame"/>
+</div>
+
 ---
 
 <p align="center">
