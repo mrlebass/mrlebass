@@ -85,8 +85,13 @@ Governance, Agile Development, DevOps Culture, SRE, SDET, AWS Cloud, Corporate S
 ---
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrlebass&style=for-the-badge&color=brightgreen" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=mrlebass&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
+
+<div align="center"> 
+<p style="font-size: medium"><b>Profile Views</b></p>
+  <img src="https://profile-counter.glitch.me/mrlebass/count.svg"  alt="profile vistor count"/><br><br>
+    <a href="https://github.com/mrlebass" target="_blank">
 
 <p align="center">
  <img width="1000" src="https://github.com/mrlebass/Assets/blob/main/github-snake.svg" alt="snake"/>
