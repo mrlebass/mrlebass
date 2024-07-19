@@ -89,3 +89,8 @@ Governance, Agile Development, DevOps Culture, SRE, SDET, AWS Cloud, Corporate S
 <p> 💬 Ask me about Test Automation and Software Engineer (architecture, microsservices e devops)  </p>
 <p> <strong> ⚡ Fun fact:</strong>  I'm Bass player 🎸 and Jiu Jitsu Practitioner 🥋                 </p>
 
+<br> </br>
+A nice dinosaur:
+<div align="center">
+<img align="center" width="500" alt="GIF" src="https://github.com/mrlebass/Assets/blob/main/dino.gif" /> 
+</div>
