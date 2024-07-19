@@ -71,6 +71,8 @@ Governance, Agile Development, DevOps Culture, SRE, SDET, AWS Cloud, Corporate S
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrlebass&show_icons=true&theme=ambient_gradient)](https://github.com/mrlebass/) [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&show_icons=true&theme=codeSTACKr&langs_count=6&layout=compact)](https://github.com/mrlebass/)
  // 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&show_icons=true&theme=codeSTACKr&langs_count=6" style="width: 25%; height: 80%;"> -->
+
+<h2 align="center"> <img src="https://github.com/mrlebass/mrlebass/assets/flame.gif" height="24px" alt="flame"/> <img src="https://github.com/mrlebass/mrlebass/assets/flame.gif" height="24px" alt="flame"/> </h2>
 ---
 
 <p align="center">
@@ -87,11 +89,6 @@ Governance, Agile Development, DevOps Culture, SRE, SDET, AWS Cloud, Corporate S
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=mrlebass&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
-
-<div align="center"> 
-<p style="font-size: medium"><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/mrlebass/count.svg"  alt="profile vistor count"/><br><br>
-    <a href="https://github.com/mrlebass" target="_blank">
 
 <p align="center">
  <img width="1000" src="https://github.com/mrlebass/Assets/blob/main/github-snake.svg" alt="snake"/>
