@@ -15,8 +15,11 @@
 
 ## 🔭 About me:
   I am a Software Engineer with over 15 years of experience in IT, I have specialized in leading, coordinating, and elevating software engineering and quality teams in high-demand environments, implementing systems and developing solutions across various sectors: banking, fintech, insurance, retail, logistics, and agribusiness.
-<br>
-</br>
+<p> 🌱 I’m currently learning <strong> Madarin Chinese |莱安德罗| </strong>                         </p>
+<p> 💬 Ask me about Test Automation and Software Engineer (architecture, microsservices e devops)  </p>
+<p> <strong> ⚡ Fun fact:</strong>  I'm Bass player 🎸 and Jiu Jitsu Practitioner 🥋                 </p>
+  
+<br> </br>
 
 ## 🧠 Technical Expertise:
 My technical approach is deeply anchored in agile practices, quality control strategy, automation, performance testing, test management, devops, and digital transformation, ensuring the delivery of successful projects aligned with strategic objectives.
@@ -90,6 +93,4 @@ Governance, Agile Development, DevOps Culture, SRE, SDET, AWS Cloud, Corporate S
 </p>
 <br> </br>
 
-<p> 🌱 I’m currently learning <strong> Madarin Chinese |莱安德罗| </strong>                         </p>
-<p> 💬 Ask me about Test Automation and Software Engineer (architecture, microsservices e devops)  </p>
-<p> <strong> ⚡ Fun fact:</strong>  I'm Bass player 🎸 and Jiu Jitsu Practitioner 🥋                 </p>
+---
