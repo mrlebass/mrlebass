@@ -15,10 +15,6 @@
 
 ## 🔭 About me:
   I am a Software Engineer with over 15 years of experience in IT, I have specialized in leading, coordinating, and elevating software engineering and quality teams in high-demand environments, implementing systems and developing solutions across various sectors: banking, fintech, insurance, retail, logistics, and agribusiness.
-<p> 🌱 I’m currently learning <strong> Madarin Chinese |莱安德罗| </strong>                         </p>
-<p> 💬 Ask me about Test Automation and Software Engineer (architecture, microsservices e devops)  </p>
-<p> <strong> ⚡ Fun fact:</strong>  I'm Bass player 🎸 and Jiu Jitsu Practitioner 🥋                 </p>
-  
 <br> </br>
 
 ## 🧠 Technical Expertise:
@@ -93,6 +89,9 @@ Governance, Agile Development, DevOps Culture, SRE, SDET, AWS Cloud, Corporate S
 <p align="center">
  <img width="1000" src="https://github.com/mrlebass/Assets/blob/main/github-snake.svg" alt="snake"/>
 </p>
-<br> </br>
+
+<p> 🌱 I’m currently learning <strong> Madarin Chinese |莱安德罗| </strong>                         </p>
+<p> 💬 Ask me about Test Automation and Software Engineer (architecture, microsservices e devops)  </p>
+<p> <strong> ⚡ Fun fact:</strong>  I'm Bass player 🎸 and Jiu Jitsu Practitioner 🥋                 </p>
 
 ---
