@@ -74,10 +74,10 @@ Governance, Agile Development, DevOps Culture, SRE, SDET, AWS Cloud, Corporate S
 
 
 <div align= "right">
-  <img src="https://raw.githubusercontent.com/mrlebass/Assets/main/flame.gif" height="24px" alt="flames"/>
+  <img src="https://raw.githubusercontent.com/mrlebass/Assets/main/flames.gif" height="24px" alt="flame"/>
 </div>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/mrlebass/Assets/main/flame.gif" height="24px" alt="flames"/>
+  <img src="https://raw.githubusercontent.com/mrlebass/Assets/main/flames.gif" height="24px" alt="flame"/>
 </div>
 
 ---
