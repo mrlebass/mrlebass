@@ -65,22 +65,11 @@ Governance, Agile Development, DevOps Culture, SRE, SDET, AWS Cloud, Corporate S
 
 </div>
 
-<!-- 
-<br> </br>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrlebass&show_icons=true&theme=ambient_gradient)](https://github.com/mrlebass/) [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&show_icons=true&theme=codeSTACKr&langs_count=6&layout=compact)](https://github.com/mrlebass/)
- // 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&show_icons=true&theme=codeSTACKr&langs_count=6" style="width: 25%; height: 80%;"> -->
-
-
-<div align= "right">
-  <img src="https://raw.githubusercontent.com/mrlebass/Assets/main/flames.gif" height="24px" alt="flame"/>
-</div>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/mrlebass/Assets/main/flames.gif" height="24px" alt="flame"/>
-</div>
-
 ---
+
+<img src="https://raw.githubusercontent.com/mrlebass/Assets/main/bar.gif" width="100%" alt="marginline"/>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/mrlebass/Assets/main/flame.gif" height="24px" alt="flame"/> My Achievements <img src="https://raw.githubusercontent.com/mrlebass/Assets/main/flame.gif" height="24px" alt="flame"/> </h2>
+
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=mrlebass&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
