@@ -74,7 +74,7 @@ Governance, Agile Development, DevOps Culture, SRE, SDET, AWS Cloud, Corporate S
 
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=mrlebass&show_icons=true&theme=ambient_gradient">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&size_weight=0.0005&count_weight=0.3&layout=compact&theme=codeSTACKr">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&size_weight=0.0005&count_weight=0.3&layout=compact&theme=codeSTACKr&langs_count=6">
 </p>
 
 ---
