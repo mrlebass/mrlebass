@@ -14,11 +14,11 @@
   </a>
 
 ## 🔭 About me:
-  I am a Software Engineer with over 15 years of experience in IT, I have specialized in leading, coordinating, and elevating software engineering and quality teams in high-demand environments, implementing systems and developing solutions across various sectors: banking, fintech, insurance, retail, logistics, and agribusiness.
+  I am a Software Engineer with over 15 years of experience in IT, specializing in leading, coordinating, and elevating software engineering and quality teams in high-demand environments. I've implemented systems and developing solutions across various sectors: banking, fintech, insurance, retail, logistics, and agribusiness.
 <br> </br>
 
 ## 🧠 Technical Expertise:
-My technical approach is deeply anchored in agile practices, quality control strategy, automation, performance testing, test management, devops, and digital transformation, ensuring the delivery of successful projects aligned with strategic objectives.
+My technical approach is deeply anchored in agile practices, quality control strategy, automation, performance testing, test management, DevOps, and digital transformation, ensuring the delivery of successful projects aligned with strategic objectives.
 <br> </br>
 <h2>  🛠️ Tech Stack </h2>
  
@@ -54,12 +54,12 @@ My technical approach is deeply anchored in agile practices, quality control str
 ![Apache JMeter](https://img.shields.io/badge/JMETER-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 <br> </br>
 ## 🔍 Professional Aspirations:
-I am looking for opportunities that challenge me to lead transformational changes on a larger scale, where I can apply my expertise in technology and management to generate significant and lasting results. My goal is to continue growing as a strategic leader at the intersection of technology, quality, and innovation.
+I am seeking opportunities that challenge me to lead transformational changes on a larger scale, where I can apply my expertise in technology and management to generate significant and lasting results. My goal is to continue growing as a strategic leader at the intersection of technology, quality, and innovation.
 <br> </br>
 ## 🔗 Let's Connect:
 If you are interested in discussing innovations in software engineering, automation, or technological leadership, I would love to expand my network and explore potential collaborations.
 <br> </br>
-## ★★★★★
+## ★★★ Additional Competencies ★★★
 Governance, Agile Development, DevOps Culture, SRE, SDET, AWS Cloud, Corporate Strategy, ITIL4, COBIT, MPS-BR, ISO 27000, Strategic and Tactical Objectives (OKRs), DataDriven, Analytics, AI, Capex/Opex, Budget/FinOps , IT Management, Digital Transformation
 
 </div>
