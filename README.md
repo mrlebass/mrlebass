@@ -94,7 +94,7 @@ If you are interested in discussing innovations in software engineering, automat
 </div>
 
 <p> 🌱 I’m currently learning <strong> Madarin Chinese |莱安德罗| </strong>                         </p>
-<p> 💬 Ask me about Test Automation and Software Engineer (architecture, microsservices e devops)  </p>
+<p> 💬 Ask me about Test Automation and Software Engineer (architecture, microsservices, sre and devops)  </p>
 <p> <strong> ⚡ Fun fact:</strong>  I'm Bass player 🎸 and Jiu Jitsu Practitioner 🥋                 </p>
 
 ---
