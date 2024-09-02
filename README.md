@@ -76,7 +76,7 @@ If you are interested in discussing innovations in software engineering, automat
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=mrlebass&show_icons=true&theme=ambient_gradient" alt="GitHub Stats">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&size_weight=0.0005&count_weight=0.5&layout=compact&theme=codeSTACKr">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&size_weight=0.0005&count_weight=0.6&layout=compact&theme=codeSTACKr">
 </p>
 
 ---
