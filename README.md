@@ -82,10 +82,16 @@ If you are interested in discussing innovations in software engineering, automat
 </div>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrlebass&show_icons=true&theme=ambient_gradient&hide_border=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&size_weight=0.0005&count_weight=0.9&layout=compact&theme=codeSTACKr&hide_border=true" alt="Top Languages" height="200"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=mrlebass&show_icons=true&theme=ambient_gradient&hide_border=true" alt="GitHub Stats" height="200"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&size_weight=0.0005&count_weight=0.9&layout=compact&theme=codeSTACKr&hide_border=true" alt="Top Languages" height="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
