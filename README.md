@@ -97,10 +97,4 @@ If you are interested in discussing innovations in software engineering, automat
  <img width="1000" src="https://github.com/mrlebass/Assets/blob/main/github-snake.svg" alt="snake"/>
 </p>
 
-
-
-<p> 🌱 I’m currently learning <strong> Madarin Chinese |莱安德罗| </strong>                         </p>
-<p> 💬 Ask me about Test Automation and Software Engineer (architecture, microsservices, sre and devops)  </p>
-<p> <strong> ⚡ Fun fact:</strong>  I'm Bass player 🎸 and Jiu Jitsu Practitioner 🥋                 </p>
-
 ---
