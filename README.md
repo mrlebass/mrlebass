@@ -74,9 +74,17 @@ If you are interested in discussing innovations in software engineering, automat
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=mrlebass&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p> 
+<div style="text-align: center;">
+    <img src="https://github-profile-trophy.vercel.app/?username=mrlebass&theme=algolia" alt="trophy" />
+</div>
+</p>
+
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=mrlebass&show_icons=true&theme=ambient_gradient" alt="GitHub Stats">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&size_weight=0.0005&count_weight=0.9&layout=compact&theme=codeSTACKr">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrlebass&show_icons=true&theme=ambient_gradient&hide_border=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&size_weight=0.0005&count_weight=0.9&layout=compact&theme=codeSTACKr&hide_border=true" alt="Top Languages" height="200"/>
 </p>
 
 ---
@@ -89,9 +97,7 @@ If you are interested in discussing innovations in software engineering, automat
  <img width="1000" src="https://github.com/mrlebass/Assets/blob/main/github-snake.svg" alt="snake"/>
 </p>
 
-<div style="text-align: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrlebass&theme=algolia" alt="trophy" />
-</div>
+
 
 <p> 🌱 I’m currently learning <strong> Madarin Chinese |莱安德罗| </strong>                         </p>
 <p> 💬 Ask me about Test Automation and Software Engineer (architecture, microsservices, sre and devops)  </p>
