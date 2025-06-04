@@ -74,14 +74,13 @@ If you are interested in discussing innovations in software engineering, automat
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=mrlebass&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
 <p> 
 <div style="text-align: center;">
     <img src="https://github-profile-trophy.vercel.app/?username=mrlebass&theme=algolia" alt="trophy" />
 </div>
 </p>
 
+<p> 
 <table align="center">
   <tr>
     <td align="center">
