@@ -112,6 +112,16 @@ If you are interested in discussing innovations in software engineering, automat
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/mrlebass">
+    <img height="150" align="center" src="./profile/stats.svg" />
+  </a>
+  <a href="https://github.com/mrlebass">
+    <img height="150" align="center" src="./profile/top-langs.svg" />
+  </a>
+</p>
+
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mrlebass&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
