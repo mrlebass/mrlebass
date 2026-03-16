@@ -106,18 +106,15 @@ If you are interested in discussing innovations in software engineering, automat
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=mrlebass&show_icons=true&theme=ambient_gradient&hide_border=true" height="200" />
     </td>
-    <td align="center">
+   <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlebass&size_weight=0.0005&count_weight=0.9&layout=compact&theme=codeSTACKr&hide_border=true" height="200" />
-    </td>
+  </td> 
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/mrlebass">
-    <img height="150" align="center" src="./profile/stats.svg" />
-  </a>
-  <a href="https://github.com/mrlebass">
-    <img height="150" align="center" src="./profile/top-langs.svg" />
+  <a>
+    <img src="https://github-profile-trophy.vercel.app?username=mrlebass&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   </a>
 </p>
 
