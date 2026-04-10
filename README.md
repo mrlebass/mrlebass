@@ -99,7 +99,6 @@ If you are interested in discussing innovations in software engineering, automat
     <img src="https://github-profile-trophy.vercel.app/?username=mrlebass&theme=algolia" alt="trophy" />
 </div>
 </p>
--->
 
 <table align="center">
   <tr>
@@ -118,6 +117,18 @@ If you are interested in discussing innovations in software engineering, automat
   </a>
 </p>
 
+-->
+
+<table align="center">
+  <tr>
+   <td align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrlebass&theme=react)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrlebass&theme=react)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrlebass&theme=react)
+   </td> 
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mrlebass&style=for-the-badge&color=blueviolet" alt="Profile Views" />
